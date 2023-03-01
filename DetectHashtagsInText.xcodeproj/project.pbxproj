@@ -13,6 +13,7 @@
 		BA18EF3B29AF2E42007F9BCE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA18EF3929AF2E42007F9BCE /* Main.storyboard */; };
 		BA18EF3D29AF2E44007F9BCE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA18EF3C29AF2E44007F9BCE /* Assets.xcassets */; };
 		BA18EF4029AF2E44007F9BCE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA18EF3E29AF2E44007F9BCE /* LaunchScreen.storyboard */; };
+		BA18EF4829AF3033007F9BCE /* HashtagViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA18EF4729AF3033007F9BCE /* HashtagViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BA18EF3C29AF2E44007F9BCE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BA18EF3F29AF2E44007F9BCE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BA18EF4129AF2E44007F9BCE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BA18EF4729AF3033007F9BCE /* HashtagViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashtagViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				BA18EF3329AF2E42007F9BCE /* AppDelegate.swift */,
 				BA18EF3529AF2E42007F9BCE /* SceneDelegate.swift */,
 				BA18EF3729AF2E42007F9BCE /* ViewController.swift */,
+				BA18EF4729AF3033007F9BCE /* HashtagViewController.swift */,
 				BA18EF3929AF2E42007F9BCE /* Main.storyboard */,
 				BA18EF3C29AF2E44007F9BCE /* Assets.xcassets */,
 				BA18EF3E29AF2E44007F9BCE /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BA18EF3829AF2E42007F9BCE /* ViewController.swift in Sources */,
+				BA18EF4829AF3033007F9BCE /* HashtagViewController.swift in Sources */,
 				BA18EF3429AF2E42007F9BCE /* AppDelegate.swift in Sources */,
 				BA18EF3629AF2E42007F9BCE /* SceneDelegate.swift in Sources */,
 			);
